@@ -1,4 +1,4 @@
-package uz.heeypay.ecom.config;
+package uz.khakimjanovich.platform.config;
 
 import java.io.IOException;
 import java.io.UncheckedIOException;
@@ -13,9 +13,10 @@ import org.springframework.core.io.ClassPathResource;
 
 /**
  * Every library's own settings come with its jar: no app imports them. Each jar lists its YAML
- * files in {@code META-INF/spring/uz.heeypay.ecom.config.LibraryDefaults.imports}, one per line,
- * read the way Boot reads {@code AutoConfiguration.imports}. They are added after the app's own
- * configuration, so any app file, profile, environment variable or argument overrides them.
+ * files in {@code META-INF/spring/uz.khakimjanovich.platform.config.LibraryDefaults.imports}, one
+ * per line, read the way Boot reads {@code AutoConfiguration.imports}. They are added after the
+ * app's own configuration, so any app file, profile, environment variable or argument overrides
+ * them.
  */
 public class LibraryDefaults implements EnvironmentPostProcessor, Ordered {
 

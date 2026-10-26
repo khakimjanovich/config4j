@@ -1,4 +1,4 @@
-package uz.heeypay.ecom.config;
+package uz.khakimjanovich.platform.config;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
