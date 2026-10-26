@@ -1,4 +1,4 @@
-package uz.heeypay.ecom.config;
+package uz.khakimjanovich.platform.config;
 
 import java.util.ArrayList;
 import org.springframework.boot.context.event.ApplicationPreparedEvent;
