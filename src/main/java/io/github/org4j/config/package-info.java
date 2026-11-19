@@ -1,4 +1,4 @@
 @NullMarked
-package uz.khakimjanovich.config4j;
+package io.github.org4j.config;
 
 import org.jspecify.annotations.NullMarked;
