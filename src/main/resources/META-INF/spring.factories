@@ -1,2 +1,2 @@
-org.springframework.boot.EnvironmentPostProcessor=uz.khakimjanovich.platform.config.LibraryDefaults
-org.springframework.context.ApplicationListener=uz.khakimjanovich.platform.config.RequiredSettings
+org.springframework.boot.EnvironmentPostProcessor=uz.khakimjanovich.config4j.LibraryDefaults
+org.springframework.context.ApplicationListener=uz.khakimjanovich.config4j.RequiredSettings

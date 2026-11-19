@@ -1,4 +1,4 @@
-package uz.khakimjanovich.platform.config;
+package uz.khakimjanovich.config4j;
 
 import java.io.IOException;
 import java.io.UncheckedIOException;

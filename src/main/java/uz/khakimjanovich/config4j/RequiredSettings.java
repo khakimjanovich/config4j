@@ -1,4 +1,4 @@
-package uz.khakimjanovich.platform.config;
+package uz.khakimjanovich.config4j;
 
 import java.util.ArrayList;
 import org.springframework.boot.context.event.ApplicationPreparedEvent;
