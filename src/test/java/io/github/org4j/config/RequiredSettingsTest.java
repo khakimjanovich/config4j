@@ -1,4 +1,4 @@
-package uz.khakimjanovich.config4j;
+package io.github.org4j.config;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
